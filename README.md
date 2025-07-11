@@ -1,7 +1,9 @@
 <html>
-<head>
+
+  <head>
   <title>Bruh</title>
-</head>
+
+  </head>
 
   <body style="background-color:powderblue;">
 
@@ -10,5 +12,5 @@
 
 <p>Broski<p>
 
-  </body>
+</body>
 </html>
